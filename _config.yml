@@ -1,13 +1,13 @@
 # Site settings
-title: 田寅欢的博客
-SEOTitle: 田寅欢的博客
+title: estsfan的博客
+SEOTitle: estsfan的博客
 header-img: img/post-bg-desk.jpg
 email: hanjihye@126.com
 description: "As I do as you know"
-keyword: "BY, BY Blog, 田寅欢的博客, tianyinhuan, 田寅欢, iOS, Apple, iPhone"
-url: "http://tianyinhuan.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, tianyinhuan, iOS, Apple, iPhone"
+url: "http://estsfan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tianyinhuan/tianyinhuan.github.io.git" # you code repository
+github_repo: "https://github.com/estsfan/estsfan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
